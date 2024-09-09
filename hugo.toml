@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hank8451.github.io/'
 languageCode = 'en-us'
 title = 'Hankkkkkabom'
 theme = 'maverick'
@@ -9,22 +9,22 @@ paginate = 3
 pages = "/:slug"
 
 [params]
-logo = '/assets/wolf.ico'
+logo = '/favicon.ico'
 description = "A minimal hugo theme focus on content"
 author = 'Calvin Tran'
 
 [params.comments]
-# enabled = true
-# githubRepo = 'canhtran/maverick'
-# theme = 'github-light'
+enabled = true
+githubRepo = 'canhtran/maverick'
+theme = 'github-light'
 
 
 [menu]
-[[menu.main]]
-identifier = "about"
-name = "About"
-url = "/about/"
-weight = "-110"
+# [[menu.main]]
+# identifier = "about"
+# name = "About"
+# url = "/about/"
+# weight = "-110"
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
