@@ -1,9 +1,9 @@
-baseURL = 'https://hank8451.github.io'
+baseURL = 'https://hank8451.github.io/'
 languageCode = 'en-us'
 title = 'Hankkkkkabom'
 theme = 'maverick'
 relURL = '/hankchcblog'
-# relativeURLs = true
+relativeURLs = true
 
 paginate = 3
 
@@ -30,8 +30,9 @@ theme = 'github-light'
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
-url = "/posts"
+pageRef = "/posts"
 weight = -200
+
 
 [markup]
 [markup.goldmark.renderer]

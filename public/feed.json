@@ -1,14 +1,14 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "Hankkkkkabom",
-  "home_page_url": "https://hank8451.github.io/",
-  "feed_url": "https://hank8451.github.io/feed.json",
+  "home_page_url": "http://localhost:1313/",
+  "feed_url": "http://localhost:1313/feed.json",
   "description": "A minimal hugo theme focus on content",
-  "favicon": "https://hank8451.github.io//assets/favicon.ico",
+  "favicon": "http://localhost:1313//assets/favicon.ico",
   "expired": false,
   "author": {
     "name": "Calvin Tran",
-    "url": "https://hank8451.github.io/"
+    "url": "http://localhost:1313/"
   },
   "items": [
     
@@ -21,12 +21,12 @@
       "summary": "",
       "content_text": "Today, I launched my blog using Hugo and Github Pages. I aim to update it every two weeks! 😀 Additionally, I hope to secure a custom domain and unique icon ready by my next post.\nBtw. I found a bug(?) where I can\u0026rsquo;t overwrite my avatar in the landing page if the new file has the same name as the old one. When I tried, it just displayed the original avatar. To work around this, I had to use a different file name.\n",
       "content_html": "\u003cp\u003eToday, I launched my blog using Hugo and Github Pages. I aim to update it every two weeks! 😀\nAdditionally, I hope to secure a custom domain and unique icon ready by my next post.\u003c/p\u003e\n\u003cp\u003eBtw. I found a bug(?) where I can\u0026rsquo;t overwrite my avatar in the landing page if the new file has the same name as the old one. When I tried, it just displayed the original avatar. To work around this, I had to use a different file name.\u003c/p\u003e\n",
-      "url": "https://hank8451.github.io/posts/my-first-post/",
+      "url": "http://localhost:1313/posts/my-first-post/",
       "date_published": "9096-09-09T92:99:00-07:00",
       "date_modified": "9096-09-09T92:99:00-07:00",
       "author": {
         "name": "Calvin Tran",
-        "url": "https://hank8451.github.io/"
+        "url": "http://localhost:1313/"
       }
     }
     
