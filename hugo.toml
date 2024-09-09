@@ -30,7 +30,7 @@ theme = 'github-light'
 [[menu.main]]
 identifier = "posts"
 name = "Posts"
-url = "/posts/"
+url = "/posts"
 weight = -200
 
 [markup]
