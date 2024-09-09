@@ -2,6 +2,8 @@ baseURL = 'https://hank8451.github.io/'
 languageCode = 'en-us'
 title = 'Hankkkkkabom'
 theme = 'maverick'
+relURL = '/hankchcblog'
+relativeURLs = true
 
 paginate = 3
 
