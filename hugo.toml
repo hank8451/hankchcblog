@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Hankkkkkabom'
 theme = 'maverick'
 relURL = '/hankchcblog'
-relativeURLs = true
+# relativeURLs = true
 
 paginate = 3
 
