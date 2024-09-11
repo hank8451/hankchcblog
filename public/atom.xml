@@ -3,25 +3,25 @@
     
     <title>Hankkkkkabom</title>
     <description>A minimal hugo theme focus on content</description>
-    <link>https://hank8451.github.io/</link>
+    <link>http://localhost:1313/</link>
     
     <language>en</language>
     <copyright>Copyright 2024, Calvin Tran</copyright>
     <lastBuildDate>Mon, 09 Sep 2024 01:02:40 -0700</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="https://hank8451.github.io//atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
     
     
     <item>
       <title>The beginning</title>
-      <link>https://hank8451.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <description>&lt;p&gt;Today, I launched my blog using Hugo and Github Pages. I aim to update it every two weeks! 😀
 Additionally, I hope to secure a custom domain and unique icon ready by my next post.&lt;/p&gt;
 &lt;p&gt;Btw. I found a bug(?) where I can&amp;rsquo;t overwrite my avatar in the landing page if the new file has the same name as the old one. When I tried, it just displayed the original avatar. To work around this, I had to use a different file name.&lt;/p&gt;
 </description>
       <author>Calvin Tran</author>
-      <guid>https://hank8451.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <pubDate>Mon, 09 Sep 2024 01:02:40 -0700</pubDate>
     </item>
     

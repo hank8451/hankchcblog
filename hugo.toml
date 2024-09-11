@@ -1,9 +1,7 @@
-baseURL = 'https://hank8451.github.io/'
+baseURL = 'https://beyondvoid.me'
 languageCode = 'en-us'
 title = 'Hankkkkkabom'
 theme = 'maverick'
-relURL = '/hankchcblog'
-# relativeURLs = true
 
 paginate = 3
 
