@@ -3,11 +3,11 @@
   "title": "Hankkkkkabom",
   "home_page_url": "http://localhost:1313/",
   "feed_url": "http://localhost:1313/feed.json",
-  "description": "A minimal hugo theme focus on content",
+  "description": "<no value>",
   "favicon": "http://localhost:1313//assets/favicon.ico",
   "expired": false,
   "author": {
-    "name": "Calvin Tran",
+    "name": "<no value>",
     "url": "http://localhost:1313/"
   },
   "items": [
@@ -25,7 +25,7 @@
       "date_published": "9096-09-09T92:99:00-07:00",
       "date_modified": "9096-09-09T92:99:00-07:00",
       "author": {
-        "name": "Calvin Tran",
+        "name": "<no value>",
         "url": "http://localhost:1313/"
       }
     }

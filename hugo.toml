@@ -8,14 +8,16 @@ paginate = 3
 [permalinks]
 pages = "/:slug"
 
-[params]
-logo = '/favicon.ico'
-description = "A minimal hugo theme focus on content"
-author = 'Calvin Tran'
+# [params]
+# logo = '/favicon.ico'
+# description = "A minimal hugo theme focus on content"
+# author = 'Calvin Tran'
+[params.meta]
+# favicon = false
 
 [params.comments]
 enabled = true
-githubRepo = 'canhtran/maverick'
+githubRepo = 'hank8451/hankchcblog'
 theme = 'github-light'
 
 
