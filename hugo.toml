@@ -38,5 +38,3 @@ tag = "tags"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 section = ["HTML"]
-
-ignoreErrors = ["error-remote-getjson"]
