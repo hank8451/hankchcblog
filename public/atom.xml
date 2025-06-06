@@ -1,29 +1,21 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    
     <title>Hankkkkkabom</title>
-    <description></description>
     <link>http://localhost:1313/</link>
-    
-    <language>en</language>
-    <copyright>Copyright 2024, Calvin Tran</copyright>
+    <description>Recent content on Hankkkkkabom</description>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en-us</language>
     <lastBuildDate>Mon, 09 Sep 2024 01:02:40 -0700</lastBuildDate>
-    <generator>Hugo - gohugo.io</generator>
-    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
-    
-    
+    <atom:link href="http://localhost:1313/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The beginning</title>
       <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 09 Sep 2024 01:02:40 -0700</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Today, I launched my blog using Hugo and Github Pages. I aim to update it every two weeks! 😀
 Additionally, I hope to secure a custom domain and unique icon ready by my next post.&lt;/p&gt;
-&lt;p&gt;Btw. I found a bug(?) where I can&amp;rsquo;t overwrite my avatar in the landing page if the new file has the same name as the old one. When I tried, it just displayed the original avatar. To work around this, I had to use a different file name.&lt;/p&gt;
-</description>
-      <author></author>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <pubDate>Mon, 09 Sep 2024 01:02:40 -0700</pubDate>
+&lt;p&gt;Btw. I found a bug(?) where I can&amp;rsquo;t overwrite my avatar in the landing page if the new file has the same name as the old one. When I tried, it just displayed the original avatar. To work around this, I had to use a different file name.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
