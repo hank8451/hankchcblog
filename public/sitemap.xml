@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://beyondvoid.me/posts/journal/20250817/</loc>
+    <lastmod>2025-08-17T12:36:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://beyondvoid.me/</loc>
+    <lastmod>2025-08-17T12:36:20+08:00</lastmod>
+  </url><url>
+    <loc>https://beyondvoid.me/posts/</loc>
+    <lastmod>2025-08-17T12:36:20+08:00</lastmod>
+  </url><url>
+    <loc>https://beyondvoid.me/archives/</loc>
+  </url><url>
+    <loc>https://beyondvoid.me/categories/</loc>
+  </url><url>
+    <loc>https://beyondvoid.me/search/</loc>
+  </url><url>
+    <loc>https://beyondvoid.me/tags/</loc>
   </url>
 </urlset>
