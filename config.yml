@@ -56,10 +56,9 @@ languages:
     languageName: "Eng"
     weight: 2
     title: HC's Blog
-    # taxonomies:
-    #   category: categories
-    #   tag: tags
-    #   series: series
+    taxonomies:
+      # category: categories
+      tag: tags
     menu:
       main:
         - name: Archive
@@ -68,9 +67,9 @@ languages:
         - name: Tags
           url: tags/
           weight: 10
-        - name: Categories
-          url: categories
-          weight: 10
+        # - name: Categories
+        #   url: categories
+        #   weight: 10
         - name: Blog
           url: posts/
           weight: 10

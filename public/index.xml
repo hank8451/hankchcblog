@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>HC&#39;s Blog</title>
-    <link>https://beyondvoid.me/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on HC&#39;s Blog</description>
     <image>
       <title>HC&#39;s Blog</title>
-      <url>https://beyondvoid.me/images/papermod-cover.png</url>
-      <link>https://beyondvoid.me/images/papermod-cover.png</link>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Aug 2025 12:36:20 +0800</lastBuildDate>
-    <atom:link href="https://beyondvoid.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>20250817 📉</title>
-      <link>https://beyondvoid.me/posts/journal/20250817/</link>
+      <link>http://localhost:1313/posts/journal/20250817/</link>
       <pubDate>Sun, 17 Aug 2025 12:36:20 +0800</pubDate>
-      <guid>https://beyondvoid.me/posts/journal/20250817/</guid>
+      <guid>http://localhost:1313/posts/journal/20250817/</guid>
       <description>&lt;h2 id=&#34;失望的2025&#34;&gt;失望的2025&lt;/h2&gt;
 &lt;p&gt;今天是個負能量很強的一天，坐在電腦前完全無法專注，打打文章抒發一下心情&lt;/p&gt;
 &lt;ol&gt;
