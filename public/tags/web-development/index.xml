@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web Development on HC&#39;s Blog</title>
+    <link>http://localhost:1313/tags/web-development/</link>
+    <description>Recent content in Web Development on HC&#39;s Blog</description>
+    <image>
+      <title>HC&#39;s Blog</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.147.7</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Aug 2025 22:34:59 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RESTful API極淺談</title>
+      <link>http://localhost:1313/posts/journal/20250820/</link>
+      <pubDate>Wed, 20 Aug 2025 22:34:59 +0800</pubDate>
+      <guid>http://localhost:1313/posts/journal/20250820/</guid>
+      <description>&lt;h2 id=&#34;什麼是restful-api&#34;&gt;什麼是RESTful API&lt;/h2&gt;
+&lt;p&gt;最煩面試被問這類型的問題，就是其實你會但很容易沒回答好。&lt;/p&gt;
+&lt;p&gt;RESTful API顧名思義就是一種符合REST風格的API設計。&lt;/p&gt;
+&lt;p&gt;REST全名是REpresentational State Transfer - 表徵狀態轉換，在Web開發情況下，「表徵」指的是資源的某種格式呈現，可以是JSON、XML或是前端最常見的HTML；而對於使用者來說，跟網站互動像是查詢商品資訊、發廢文、取消訂單等就是所謂的「狀態轉換」。&lt;/p&gt;
+&lt;p&gt;而RESTful這種設計風格，就是當表徵狀態轉換時，能夠明確地跟Server做溝通。重點在於要「明確」，指的是讓工程師們可以直觀地從這個HTTP請求看出這支API想幹嘛，因此RESTful API設計時會明確規範兩件事情：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Nouns: 欲操作的資源的identifier，指的是URLs，例如查看訂單的URL可能會是 &lt;code&gt;https://hankmallapi/v1/orders&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Verb: 表明要對Nonus做的操作，包含創建、查看、更新、刪除（CRUD）。由於Web開發時實作的通訊協定是HTTP，分別對應HTTP method的Get、Post、Put(or Patch)、Delete&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;因此我們在看RESTful API文件時都會是一個HTTP method配一個URL，例如：&lt;code&gt;Get&lt;/code&gt; &lt;code&gt;https://hankmallapi/v1/orders&lt;/code&gt;，可以很直觀地猜這支API是要獲取所有的訂單資料。&lt;/p&gt;
+&lt;p&gt;以上論述只涵蓋了RESTful的一部分，Roy Thomas Fielding在提出時還講了幾個限制:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Client - Server&lt;/li&gt;
+&lt;li&gt;Statelessness&lt;/li&gt;
+&lt;li&gt;Cacheability&lt;/li&gt;
+&lt;li&gt;Uniform Interface&lt;/li&gt;
+&lt;li&gt;Layered System&lt;/li&gt;
+&lt;li&gt;Code-On-Demand&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;小結: RESTful只是一種設計風格，它很適合Public API或是那種Customer-facing的Service，這種Resource導向的風格簡單易懂，設計上也天然符合HTTP協定，但是每個公司對RESTful API的實作上會有些許不同，大部分時候還是要遵循公司文件的規則來開發。&lt;/p&gt;
+&lt;p&gt;除了RESTful以外，常見的還有GraphQL、JSON-RPC、gRPC，SSE等等，改天再來講講RESTful API其他特性以及什麼時候要選擇RESTful。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
